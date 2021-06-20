@@ -338,6 +338,7 @@ h6 { font-size: 16px;}
     color: #fff;
     background-color: var(--submitbtn);
     border: none;
+    cursor: pointer;
 }
 
 #contact-form {
